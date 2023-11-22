@@ -1,0 +1,4 @@
+"AadClientId": "b18dc00a-d363-420d-b18d-2c43e8cc27cc",
+  "AadSecret": "tCF8Q~OIXEQGaz7sW0ZZ8zxfPTg9f27ct2R6Za9d",
+  "AadTenantDomain": "testbtcloud.co.uk",
+  "AadTenantId": "40d9d3d6-53ad-415c-aee8-72de90a76ab5",
